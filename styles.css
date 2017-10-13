@@ -1,0 +1,22 @@
+ body { background-color: lightyellow;
+	  color: black;
+	  font-size: 14pt; }
+
+H1 { font-family: 'Fascinate Inline' , sans-serif; 
+     font-size: 70pt; }
+H2 { font-family: 'Fascinate Inline' , sans-serif;
+     font-size: 40pt; }
+P  { font-family: 'Inconsolata' , sans-serif;
+	 font-size: 14pts ; }
+DIV { font-family: 'Inconsolata' , sans-serif;
+	 font-size: 14pts ; }
+UL { font-family: 'Inconsolata' , sans-serif;
+	 font-size: 14pts ; }
+A  { color: blue;
+	 text decoration: none }
+	a:hover { color: red }
+nav li { display: inline-block }
+nav li { border: 2px solid black }
+nav li {padding: 10px;
+		margin: 5px;
+		background: white}
